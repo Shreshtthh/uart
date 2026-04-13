@@ -8,7 +8,7 @@
 //                       framing error injection, break detection
 //              - Generates VCD waveform file for GTKWave
 //
-// Author:      [Your Name]
+// Author:      Shreshth
 // Date:        2026-04-13
 //==============================================================================
 

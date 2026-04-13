@@ -9,7 +9,7 @@
 // Parameters:  CLK_FREQ  — system clock frequency in Hz (default 50 MHz)
 //              BAUD_RATE — desired baud rate (default 115200)
 //
-// Author:      [Your Name]
+// Author:      Shreshth
 // Date:        2026-04-13
 //==============================================================================
 

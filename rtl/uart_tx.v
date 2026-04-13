@@ -16,7 +16,7 @@
 //              tx_busy   — high while a transmission is in progress
 //              tx_done   — single-cycle pulse when transmission completes
 //
-// Author:      [Your Name]
+// Author:      Shreshth
 // Date:        2026-04-13
 //==============================================================================
 

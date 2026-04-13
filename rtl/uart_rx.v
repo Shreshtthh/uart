@@ -13,7 +13,7 @@
 //              PARITY_EN   — 0 = no parity, 1 = parity enabled (default 0)
 //              PARITY_MODE — 0 = even parity, 1 = odd parity (default 0)
 //
-// Author:      [Your Name]
+// Author:      Shreshth
 // Date:        2026-04-13
 //==============================================================================
 

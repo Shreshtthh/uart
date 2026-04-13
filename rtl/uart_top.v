@@ -11,7 +11,7 @@
 //              PARITY_EN   — enable parity bit
 //              PARITY_MODE — 0 = even, 1 = odd
 //
-// Author:      [Your Name]
+// Author:      Shreshth
 // Date:        2026-04-13
 //==============================================================================
 
